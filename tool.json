@@ -73,10 +73,25 @@
 {
          "name": "SG-PAID-014",
          "url": "https://juessh.000webhostapp.com/SG-PAID-014.ovpn"
-    }
+    },
+
+{
+         "name": "SG-DTAC-90D-001",
+         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-001.ovpn"
+      },
+
+
+{
+         "name": "SG-DTAC-90D-002",
+         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-002.ovpn"
+      },
+{
+         "name": "SG-DTAC-90D-003",
+         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-003.ovpn"
+      }
 
  ],
-"message":"All Paid 14 Servers\n \nVersion: 2\n•update: 25/09/2021\n•Update by: Juehtet\n•Donate True wellet: 0953244179\n• အားလုံးပဖဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
+"message":"Add DTAC ရက် 90\n•Version: 3\n•Update: 25/09/2021\n•Update by: Juehtet\n•Donate True wellet: 0953244179\n• အားလုံးပဖဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
    "title":"လိုင်းကောင်းကောင်းတွေထပ်သုံးချင်ပါက Donateလေးပေးကြပါ" ,
-   "version": 2
+   "version": 3
 }
