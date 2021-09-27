@@ -97,10 +97,35 @@
 {
          "name": "SG-DTAC-90D-005",
          "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-005.ovpn"
+      },
+
+{
+         "name": "SG-VPS-DTAC-TRUE-001",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-DTAC-TRUE-001.ovpn"
+      },
+
+
+{
+         "name": "SG-VPS-DTAC-TRUE-002",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-DTAC-TRUE-002.ovpn"
+      },
+{
+         "name": "SG-VPS-DTAC-TRUE-003",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-DTAC-TRUE-003.ovpn"
+      },
+
+{
+         "name": "SG-VPS-DTAC-TRUE-004",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-DTAC-TRUE-004.ovpn"
+      },
+{
+         "name": "SG-VPS-DTAC-TRUE-005",
+         "url": "https://juessh.000webhostapp.com/SG-VPS-DTAC-TRUE-005.ovpn"
       }
 
+
  ],
-"message":"Add More DTAC ရက် 90\n•Version: 4\n•Update: 26/09/2021\n•Update by: Juehtet\n•Donate True wellet: 0953244179\n• အားလုံးပဖဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
-   "title":"လိုင်းကောင်းကောင်းတွေထပ်သုံးချင်ပါက Donateလေးပေးကြပါ" ,
-   "version": 4
+"message":"Add VPS DTAC&TRUE\n•Version: 5\n•Update: 26/09/2021\n•Update by: Juehtet\n•Donate True wellet: 0953244179\n• အားလုံးပဖဲအဆင်ပြေကြပါစေ\n• Config By:JH ",
+   "title":"ကိုယ်ပိုင်VPSဆာဗာ5ခုထည့်ပေးလိုက်ပါတယ်" ,
+   "version": 5
 }
