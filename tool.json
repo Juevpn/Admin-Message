@@ -24,27 +24,23 @@
 
 
 {
-         "name": "SG-DTAC-90D-001",
-         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-001.ovpn"
+         "name": "SG-TOOL-005",
+         "url": "https://juessh.000webhostapp.com/SG-TOOL-005.ovpn"
       },
 
 
 {
-         "name": "SG-DTAC-90D-002",
-         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-002.ovpn"
+         "name": "SG-TOOL-006",
+         "url": "https://juessh.000webhostapp.com/SG-TOOL-006.ovpn"
       },
 {
-         "name": "SG-DTAC-90D-003",
-         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-003.ovpn"
+         "name": "SG-TOOL-007",
+         "url": "https://juessh.000webhostapp.com/SG-TOOL-007.ovpn"
       },
 
 {
-         "name": "SG-DTAC-90D-004",
-         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-004.ovpn"
-      },
-{
-         "name": "SG-DTAC-90D-005",
-         "url": "https://juessh.000webhostapp.com/SG-DTAC-90D-005.ovpn"
+         "name": "SG-TOOL-008",
+         "url": "https://juessh.000webhostapp.com/SG-TOOL-008.ovpn"
       },
 
 {
@@ -73,7 +69,7 @@
 
 
  ],
-"message":"Add SG TOOL D&T\n•Version: 6\n•Update: 29/09/2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
-   "title":"ကိုယ်ပိုင်VPSဆာဗာ5ခုထည့်ပေးလိုက်ပါတယ်" ,
-   "version": 6
+"message":"ဖိုင်အားလုံးDtac&Trueချိတ်ရပါတယ်\n•Version: 7\n•Update: 2 October 2021\n•Update by: Juehtet\n•Donate TrueWellet:0953244179\n• အားလုံးပဲအဆင်ပြေကြပါစေ\n•Config By:JH ",
+   "title":"Add VPS SG TOOl 8ဖိုင်" ,
+   "version": 7
 }
